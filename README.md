@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo André Vinícius, tenho 19 anos e sou natural de Brasília-DF. Desde pequeno me despertou interesse pelo mundo da tecnologia. Atualmente, estou cursando Ciência da Computação na UCB. Sou apaixonado por tecnologia, pelo aprendizado contínuo e estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor. Acredito no poder da inovação e na transformação que a tecnologia pode gerar na vida das pessoas — e quero fazer parte disso!
+Me chamo André Vinícius Branches Cunha, tenho 19 anos e sou natural de Brasília-DF. Desde pequeno me despertou interesse pelo mundo da tecnologia. Atualmente, estou cursando Ciência da Computação na UCB. Sou apaixonado por tecnologia, pelo aprendizado contínuo e estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor. Acredito no poder da inovação e na transformação que a tecnologia pode gerar na vida das pessoas — e quero fazer parte disso!
 
 ---
 
